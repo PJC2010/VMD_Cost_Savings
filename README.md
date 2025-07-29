@@ -1,4 +1,4 @@
-#VillageMD: Adherence Program Impact Analysis
+# VillageMD: Adherence Program Impact Analysis
 
 This repository contains the analysis and visualization for a project demonstrating the impact of a clinical outreach program on medication adherence and hospitalization rates for a Medicare Advantage population. This project is part of the **VillageMD Quality Specialist team's efforts for fiscal year 2024**.
 
