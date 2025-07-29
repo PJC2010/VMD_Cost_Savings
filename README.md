@@ -1,4 +1,4 @@
-# Portfolio Project: Analyzing the ROI of a Clinical Healthcare Intervention
+# Analyzing the ROI of a Clinical Healthcare Intervention
 
 ### A Data-Driven Demonstration of Value for VillageMD's Quality Program (FY 2024)
 
