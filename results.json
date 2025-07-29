@@ -1,0 +1,35 @@
+{
+    "adherence_analysis": [
+        {
+            "group": "Group 1",
+            "total_patients": 8292,
+            "adherent_patients": 6246,
+            "adherence_rate": 75.32561505065122
+        },
+        {
+            "group": "Group 2",
+            "total_patients": 8708,
+            "adherent_patients": 4848,
+            "adherence_rate": 55.67294441892513
+        }
+    ],
+    "admissions_analysis": [
+        {
+            "group": "Group 1",
+            "total_patients": 8292,
+            "total_admissions": 1744,
+            "admissions_per_1000": 210.32320308731306
+        },
+        {
+            "group": "Group 2",
+            "total_patients": 8708,
+            "total_admissions": 2295,
+            "admissions_per_1000": 263.5507579237483
+        }
+    ],
+    "summary_findings": {
+        "adherence_uplift_pct": 35.3,
+        "hospitalization_reduction_pct": 20.2,
+        "cost_savings": 6488034.41
+    }
+}
